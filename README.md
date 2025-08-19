@@ -61,4 +61,4 @@ O dataset utilizado é **`TelecomX_Data.json`**, contendo informações sobre cl
 ---
 
 ## 📄 Relatório Detalhado
-Consulte a seção **"📄 Relatório Final"** no notebook para uma descrição aprofundada das análises, conclusões e recomendações.
+Consulte a seção **"📄 Relatório Final"** no notebook para uma descrição aprofundada das análises, conclusões e recomendações
